@@ -8,7 +8,7 @@ public class GitDemoAppApplication {
 
 
 	public static void main(String[] args) {
-		System.out.println("welcome");
+		System.out.println("break time");
 		SpringApplication.run(GitDemoAppApplication.class, args);
 	}
 
